@@ -98,7 +98,7 @@ DATABASES = {
 DATABASES = {
     'default': dj_database_url.config(
         # Replace this value with your local database's connection string.
-        default='postgresql://postgres:postgres@localhost:5432/mysite',
+        default='postgresql://fic:QP56Ku0jLmi29QMNWLNOFp2e2rwxRl2m@dpg-dbp1m0egekts738jge5g-a/fic_oqck',
         conn_max_age=600
     )
 }
